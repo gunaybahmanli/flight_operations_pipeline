@@ -1,4 +1,4 @@
-# ✈️ Flight Operations Data Engineering Pipeline
+<img width="1301" height="801" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/a0909ab3-7868-468a-8279-a03c0d923748" /># ✈️ Flight Operations Data Engineering Pipeline
 
 An end-to-end Data Engineering project that ingests live flight data from a public API, processes it using Medallion Architecture (Bronze → Silver → Gold), and delivers analytics-ready data for BI dashboards.
 
@@ -7,11 +7,12 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 ##  Project Architecture
 
 <!-- 🔽 ADD ARCHITECTURE IMAGE HERE -->
-![Architecture Diagram](./images/architecture.png)
+![Uploading Untitled Diagram.drawio (4).png…]()
+
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 <!-- 🔽 ADD DASHBOARD IMAGE HERE -->
 ![Dashboard](./images/dashboard.png)
@@ -54,7 +55,7 @@ This project simulates how aviation analytics teams analyze global flight activi
 
 ---
 
-## 🧱 Data Architecture (Medallion)
+##  Data Architecture (Medallion)
 
 ### 🥉 Bronze Layer
 - Raw JSON data ingestion from API
