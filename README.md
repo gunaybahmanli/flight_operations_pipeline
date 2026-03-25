@@ -4,7 +4,7 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 <!-- 🔽 ADD ARCHITECTURE IMAGE HERE -->
 ![Architecture Diagram](./images/architecture.png)
@@ -18,7 +18,7 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates how a real-world data engineering pipeline is built using modern tools like **Apache Airflow**, **Snowflake**, and **Docker**.
 
@@ -28,7 +28,7 @@ It is designed to simulate a production-level workflow with proper orchestration
 
 ---
 
-## 🔥 Key Features
+##  Key Features
 
 - Ingests **real-time flight data** from a public API
 - Fully automated pipeline using **Apache Airflow**
@@ -41,7 +41,7 @@ It is designed to simulate a production-level workflow with proper orchestration
 
 ---
 
-## 🧠 Use Case
+##  Use Case
 
 This project simulates how aviation analytics teams analyze global flight activity to:
 
@@ -50,7 +50,7 @@ This project simulates how aviation analytics teams analyze global flight activi
 - Compare flight activity across countries
 - Build historical datasets for analytics
 
-> ⚠️ Note: This project focuses on analytics, not real-time air traffic control.
+>  Note: This project focuses on analytics, not real-time air traffic control.
 
 ---
 
@@ -73,7 +73,7 @@ This project simulates how aviation analytics teams analyze global flight activi
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Apache Airflow** – workflow orchestration
 - **Python** – data processing
@@ -84,7 +84,7 @@ This project simulates how aviation analytics teams analyze global flight activi
 
 ---
 
-## 🔄 Pipeline Workflow
+## Pipeline Workflow
 
 1. Extract flight data from external API
 2. Load raw data into Bronze layer
@@ -95,7 +95,7 @@ This project simulates how aviation analytics teams analyze global flight activi
 
 ---
 
-## 📈 Data Engineering Concepts Applied
+## Data Engineering Concepts Applied
 
 - Batch processing (near real-time)
 - Incremental data loading
@@ -106,15 +106,3 @@ This project simulates how aviation analytics teams analyze global flight activi
 - Data modeling for analytics
 
 ---
-
-## ▶️ How to Run the Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/flight_operations_pipeline.git
-
-# Navigate to project folder
-cd flight_operations_pipeline
-
-# Start services
-docker-compose up --build
