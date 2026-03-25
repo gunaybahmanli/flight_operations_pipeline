@@ -15,7 +15,8 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 ##  Dashboard Preview
 
 <!-- 🔽 ADD DASHBOARD IMAGE HERE -->
-![Dashboard](./images/dashboard.png)
+<img width="1842" height="601" alt="Screenshot 2026-03-26 001210" src="https://github.com/user-attachments/assets/7a09bd16-eeb6-4025-94f0-c3e0feb2bf96" />
+
 
 ---
 
