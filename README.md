@@ -1,4 +1,4 @@
-<img width="1301" height="801" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/a0909ab3-7868-468a-8279-a03c0d923748" /># ✈️ Flight Operations Data Engineering Pipeline
+# ✈️ Flight Operations Data Engineering Pipeline
 
 An end-to-end Data Engineering project that ingests live flight data from a public API, processes it using Medallion Architecture (Bronze → Silver → Gold), and delivers analytics-ready data for BI dashboards.
 
@@ -7,8 +7,7 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 ##  Project Architecture
 
 <!-- 🔽 ADD ARCHITECTURE IMAGE HERE -->
-![Uploading Untitled Diagram.drawio (4).png…]()
-
+<img width="1301" height="801" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/a0909ab3-7868-468a-8279-a03c0d923748" />
 
 ---
 
