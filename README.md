@@ -7,7 +7,8 @@ An end-to-end Data Engineering project that ingests live flight data from a publ
 ##  Project Architecture
 
 <!-- 🔽 ADD ARCHITECTURE IMAGE HERE -->
-<img width="1301" height="801" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/a0909ab3-7868-468a-8279-a03c0d923748" />
+<img width="1301" height="801" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/638e2089-8551-488d-b686-8d79f7978b7a" />
+
 
 ---
 
