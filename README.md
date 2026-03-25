@@ -1,4 +1,4 @@
-# ✈️ Flight Operations Data Engineering Pipeline
+# Flight Operations Data Engineering Pipeline
 
 An end-to-end Data Engineering project that ingests live flight data from a public API, processes it using Medallion Architecture (Bronze → Silver → Gold), and delivers analytics-ready data for BI dashboards.
 
@@ -81,7 +81,6 @@ This project simulates how aviation analytics teams analyze global flight activi
 - **Snowflake** – data warehouse
 - **REST API** – live flight data ingestion
 - **Docker & Docker Compose** – environment setup
-- **Power BI** *(optional)* – data visualization
 
 ---
 
